@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
-title = "Airspace | Creative Agency Hugo Template"
+baseURL = "https://abcstack.io"
+title = "ABCSTACK | Cloud Native Accelerator"
 theme = "airspace-hugo"
 # post pagination
 paginate = "4"
